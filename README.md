@@ -35,9 +35,11 @@ To use this script, you'll need to have the following:
 
 
 ## Note
-### App Passwords: You need to generate an app password for your Gmail account (since Google blocks less secure apps). Follow this guide to generate one.
+### App Passwords: 
+You need to generate an app password for your Gmail account (since Google blocks less secure apps). Follow this guide to generate one.
 
-### Security: Be cautious while handling your email credentials. It's better to use environment variables or a secrets manager to keep your sensitive information safe.
+### Security: 
+Be cautious while handling your email credentials. It's better to use environment variables or a secrets manager to keep your sensitive information safe.
 
 ## License
 This project is licensed under the MIT License.
